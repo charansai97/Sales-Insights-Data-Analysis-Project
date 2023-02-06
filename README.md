@@ -1,4 +1,4 @@
-# sales_dashboard
+# SQL_queries_sales_dashboard
 
 Data Analysis Using SQL
 Show all customer records
