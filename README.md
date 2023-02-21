@@ -1,4 +1,4 @@
-# SQL_queries_sales_dashboard
+#Sales Insights Data Analysis Project
 
 Data Analysis Using SQL
 Show all customer records
